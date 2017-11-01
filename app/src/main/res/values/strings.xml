@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sharing</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="emptyString" />
+    <string-array name="itemList">
+        <item>Select</item>
+        <item>Tools</item>
+        <item>Sports equipment</item>
+        <item>Party equipment</item>
+        <item>Kitchenware</item>
+        <item>Electronics</item>
+        <item>Bike</item>
+        <item>Movies and Music</item>
+        <item>Books</item>
+        <item>Games</item>
+        <item>Traveling gear</item>
+        <item>Pet Accessories</item>
+        <item>Other</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navAccount"
+        android:icon="@mipmap/ic_person_black_24dp"
+        android:title="My Account" ></item>
+    <item android:id="@+id/navDashboard" android:title="Dashboard" android:icon="@mipmap/ic_dashboard_black_24dp" android:onClick="onDashboardClick"></item>
+    <item android:id="@+id/navSearch" android:title="Search" android:icon="@mipmap/ic_search_black_24dp" android:onClick="onSearchItemClick"></item>
+    <item
+        android:id="@+id/navManageItem"
+        android:icon="@mipmap/ic_menu_black_24dp"
+        android:onClick="onManageItemClick"
+        android:title="Manage Item"></item>
+    <item android:id="@+id/navRating" android:title="Rate Item" android:icon="@mipmap/ic_settings_black_24dp" android:onClick="onRateItemClick" ></item>
+    <item android:id="@+id/navLogout" android:title="Logout" android:icon="@mipmap/logout" android:onClick="onLogoutClick"></item>
+
+</menu>
